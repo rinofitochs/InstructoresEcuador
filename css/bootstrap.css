@@ -4995,6 +4995,12 @@ button.close {
   width: auto;
   margin: 10px;
   z-index: 1050;
+  /*margin-top: 0;
+  margin-bottom: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;*/
 }
 .modal-content {
   position: relative;
