@@ -1037,8 +1037,8 @@ css para los videos responsive
 	}
 }
 
-fin video
-css para galeria
+/*fin video*/
+/*css para galeria*/
 #galeria{ background: #111;
 img {
   display: block;
@@ -1109,4 +1109,10 @@ img {
   right: 10px;
   top: 10px;
 }
-fin galeria
+/*fin galeria*/
+/*.bandanegra1{
+	background-color: #000;
+	padding-top: 100px;
+	padding-bottom: 20px;
+	display: inline-block;
+	}*/
