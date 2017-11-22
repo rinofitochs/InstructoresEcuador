@@ -83,12 +83,12 @@ h3{
 	font-weight: 400;
 }
 h6{
-	font-size:16px;
-	color:#888888;
+	font-size: 16px;
+	color: #888888;
 	font-family: 'Open Sans', sans-serif;
-	font-weight:400;
-	text-align:center;
-	margin:0 0 60px 0;
+	font-weight: 400;
+	text-align: center;
+	margin: 0 0 60px 0;
 }
 p{
 	line-height: 24px;
@@ -246,6 +246,12 @@ color: #fff;
 
 .main-section{
 	padding-bottom: 110px;
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 0px;
+}
+.main-sectioninfo{
+	padding-bottom: 50px;
 	padding-left: 0;
 	padding-right: 0;
 	padding-top: 0px;
@@ -1125,16 +1131,9 @@ img {
 	padding-bottom: 20px;
 	display: inline-block;
 	}*/
-css martquee
-.bandaazul{
-	padding-bottom: 25px;
-	padding-top: 25px;
+.parrafoinfo{
+	text-align: justify;
+
+
+
 }
-.img{
-	display: inline-block;
-	width: 250px;
-	height: 250px;
-	border-radius: 50%;
-	padding-right: 20px
-}
-fin css marquee

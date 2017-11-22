@@ -75,7 +75,11 @@
 	.team-leader-box{ max-width:307px; width:auto; float:none; margin:0 auto;	}
 	.team-leader-box:nth-of-type(3n){ margin:0 auto}
 	.res-nav_click{ display:block;}
-	.featured-work{ font-size:12px; margin-top:30px;}
+	.featured-work{
+	font-size: 12px;
+	margin-top: 30px;
+	margin-left: 0px;
+}
 	.featured-box{ font-size:12px;}
 	.featured-box p{ line-height:18px; }
 	.c-logo-part ul a{ margin-bottom:5px;}
