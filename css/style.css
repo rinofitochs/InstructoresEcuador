@@ -111,7 +111,7 @@ p{
 }
 .headerinfo{
 	text-align: center;
-	background: url(../img/pw_maze_black_2X.png) left top repeat;
+	/*background: url(../img/pw_maze_black_2X.png) left top repeat;*/
 	padding-bottom: 120px;
 	padding-left: 0;
 	padding-right: 0;
@@ -258,7 +258,15 @@ color: #fff;
 	padding-right: 0;
 	padding-top: 0px;
 }
+.main-sectioninfo2{
+	background:#fafafa;
+	padding-bottom: 110px;
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 0px;
+}
 .main-sectioninfo{
+	background:#fafafa;
 	padding-bottom: 50px;
 	padding-left: 0;
 	padding-right: 0;
