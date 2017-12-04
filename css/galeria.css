@@ -11,14 +11,16 @@ body {
 }*/
 
 #galeria{
-	background: #111;}
+	background: #111;
+	display:inline-block}
+	
 
 img {
   display: block;
   max-width: 100%;
 }
 .item{
-	padding:20px;}
+	padding:10px;}
 
 
 .galeria {
