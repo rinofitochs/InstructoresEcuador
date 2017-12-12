@@ -118,6 +118,17 @@ p{
 	padding-right: 0;
 	padding-top: 120px;
 }
+.headerinfoP{
+	text-align: center;
+	/*background: url(../img/pw_maze_black_2X.png) left top repeat;*/
+	/*background: #000;*/
+	padding-bottom: 120px;
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 120px;
+}
+
+
 
 .headerinstructor{
 	text-align: center;
